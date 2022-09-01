@@ -60,7 +60,7 @@ const promptUser = () => {
             type: 'list',
             name: 'license',
             message: 'Please choose your distribution license.',
-            choices: ['MIT', new inquirer.Separator(), 'GNU AGPLv3', new inquirer.Separator(), 'GNU GPLv3', new inquirer.Separator(), 'Mozilla Public License']
+            choices: ['MIT', new inquirer.Separator(), 'GNU AGPLv3', new inquirer.Separator(), 'Apache 2.0', new inquirer.Separator(), 'Mozilla Public License']
         },
         {
             type: 'input',
