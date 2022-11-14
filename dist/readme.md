@@ -1,9 +1,9 @@
-# README Generator
+# decision-assistant
 
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This application asks a series of questions and then provides a quality README.md file with the content filled in based off of answers provided.
+This application was built to help indecisive individuals come up with their next plan of action. This application was built using the MERN stack.
 
 ## Table of Contents
  - [Installation](#installation)
@@ -14,10 +14,10 @@ This application asks a series of questions and then provides a quality README.m
  - [Questions](#Questions)
 
 ## Installation
-Run npm install in the terminal, and then run node index.js.
+No installation is required.
 
 ## Usage
-Answer the questions about your produt, and then a README.md will be generated under the dist folder.
+None
 
 ## License
 [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
@@ -29,9 +29,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Contributing
-Please do not attempt to contribute to this product without permission. For inquiries, reach out to hogan.r.sherrow@vanderbilt.edu
+none
 ## Tests
-No tests were utilized in the production of this application.
+none
 ## Questions
  * For any further questions, you may reach out by emailing [hogan.r.sherrow@vanderbilt.edu](hogan.r.sherrow@vanderbilt.edu).
  * [@hoganrsherrow](www.https://github.com/hoganrsherrow)
